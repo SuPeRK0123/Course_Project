@@ -59,8 +59,10 @@ streamlit run app.py
 The application will be available at http://localhost:8501.
 
 ## 📂 Repository Structure
+```text
 ├── pages/
 │   ├── 1_🎮_Steam_Radar.py   # Steam data scraping & LLM analysis module
 │   └── 2_📺_YouTube_Xray.py  # YouTube data scraping & LLM analysis module
 ├── app.py                    # Main entry point and project vision statement
 └── README.md                 # Project documentation
+```
